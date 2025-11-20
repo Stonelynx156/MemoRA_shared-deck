@@ -1,0 +1,554 @@
+{
+  "cards": [
+    {
+      "id": "5f2d5f18-2cda-4d34-8c6e-3bd1cd01fc41",
+      "front": "Apa ibu kota provinsi Jawa Timur?",
+      "back": "Surabaya.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "87d54b93-bd1c-4f0d-a488-911e2c587430",
+      "front": "Gunung apa yang terkenal dengan lautan pasir?",
+      "back": "Gunung Bromo.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "a5004579-f669-4d8c-bdf7-7c2c2867397f",
+      "front": "Kerajaan besar apa yang berpusat di Trowulan?",
+      "back": "Kerajaan Majapahit.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "cba70b7d-09de-4b48-9306-2b49bcca73f5",
+      "front": "Siapa raja Majapahit pada masa keemasan?",
+      "back": "Hayam Wuruk.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "f66d4c7b-2bf8-4e79-b6ff-e2fb467f5b39",
+      "front": "Siapa mahapatih Majapahit yang terkenal dengan Sumpah Palapa?",
+      "back": "Gajah Mada.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "986e70d2-2f4a-4b98-a28b-81b6cfd03fa4",
+      "front": "Apa nama situs peninggalan utama Majapahit?",
+      "back": "Situs Trowulan.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "d4f12db1-e026-4999-ac31-fcc1bb351873",
+      "front": "Apa pelabuhan terbesar di Jawa Timur?",
+      "back": "Pelabuhan Tanjung Perak Surabaya.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "c87d6a80-903c-4be1-a43d-6713d4d6269a",
+      "front": "Apa julukan Kota Surabaya?",
+      "back": "Kota Pahlawan.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "0ab92e83-a9a1-4139-ad87-6aee403b7f10",
+      "front": "Tanggal berapa terjadi Pertempuran Surabaya?",
+      "back": "10 November 1945.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "ef19c88b-3588-4f5d-bf1a-23a66b0dff6c",
+      "front": "Siapa tokoh yang berperan dalam pertempuran 10 November?",
+      "back": "Bung Tomo.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "fa597f74-812e-42ce-94f3-2197187d19be",
+      "front": "Gunung apa yang dikenal sangat aktif di Jawa Timur?",
+      "back": "Gunung Semeru.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "d0d35a41-c8a1-4874-a687-8b9698d59f00",
+      "front": "Pantai apa di Banyuwangi yang terkenal dengan ombak untuk surfing?",
+      "back": "Pantai Plengkung (G-Land).",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "cbd97c44-207c-4ae0-bfd8-9a6f88fb188f",
+      "front": "Suku apa yang dominan di Madura?",
+      "back": "Suku Madura.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "9e5d0a29-4e99-4c92-928d-670ba7599a61",
+      "front": "Tradisi adu ketangkasan yang berasal dari Madura?",
+      "back": "Karapan Sapi.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "b2b928c8-46ae-47c2-ae80-d874bc9a29d3",
+      "front": "Apa makanan khas Surabaya yang berisi lontong, tahu, dan lentho?",
+      "back": "Lontong Balap.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "63f96305-d3f3-4b0b-8a48-3cfc4b37b836",
+      "front": "Apa alat transportasi khas kota Malang pada masa kolonial?",
+      "back": "Kereta uap Malang\u2013Surabaya.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "5fcd9df7-bd68-4c80-a0d4-f2b5aa08e332",
+      "front": "Tari tradisional dari Banyuwangi yang terkenal?",
+      "back": "Tari Gandrung.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "e22b7180-9908-4ffd-ac21-6cd47747db1a",
+      "front": "Apa nama jembatan yang menghubungkan Surabaya dan Madura?",
+      "back": "Jembatan Suramadu.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "8d306cb8-99e1-417a-b33f-b8f860335bc0",
+      "front": "Universitas tertua di Jawa Timur?",
+      "back": "Universitas Airlangga (Unair).",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "a53e3df2-cbc4-4818-a945-539f86b0fd43",
+      "front": "Siapa wali yang makamnya berada di Gresik?",
+      "back": "Sunan Giri.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "10c6f1b3-9426-4d77-baf9-fb26b90fd0f1",
+      "front": "Siapa wali yang menyebarkan Islam di Ampel, Surabaya?",
+      "back": "Sunan Ampel.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "ad2d0f14-19cf-40a0-a1da-94f0e2598916",
+      "front": "Gunung berapi aktif di Bondowoso dan Banyuwangi?",
+      "back": "Gunung Ijen.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "d9309aa7-371e-45cc-b732-49f3e9690b10",
+      "front": "Fenomena alam terkenal di Kawah Ijen?",
+      "back": "Blue Fire (api biru).",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "0fd92e2c-70df-4403-a6fd-ffbb1fcd4e36",
+      "front": "Kerajaan Islam awal yang berkembang di Gresik?",
+      "back": "Kerajaan Giri Kedaton.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "416a63e5-d730-4121-a35d-92e67bcad94d",
+      "front": "Situs purbakala di Lumajang peninggalan kerajaan kuno?",
+      "back": "Candi Mandara Giri Semeru Agung.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "0c24cc92-1463-45f8-9cd7-61fb018ad1cb",
+      "front": "Gunung berapi paling tinggi di Jawa?",
+      "back": "Gunung Semeru (3676 mdpl).",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "eafbcc0e-5e6d-4f43-bab1-48d8dd2a8a74",
+      "front": "Pelabuhan peninggalan Majapahit di Tuban disebut apa?",
+      "back": "Pelabuhan Kambang Putih.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "8494d437-54bb-4a00-8a40-62d7b52aee95",
+      "front": "Apa makanan khas Madura yang terkenal dengan bumbunya?",
+      "back": "Sate Madura.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "808631ba-d3f6-43d8-85ff-0f6eb72e1930",
+      "front": "Keraton peninggalan raja Madura berada di mana?",
+      "back": "Keraton Sumenep.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "30a9150e-a96a-461c-bc3c-27dc1769d77b",
+      "front": "Festival budaya terbesar di Banyuwangi?",
+      "back": "Banyuwangi Ethno Carnival.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "2684fc10-5d5a-4e82-b92b-fbf4323a5c9b",
+      "front": "Apa nama alat musik khas Surabaya?",
+      "back": "Trombone patrol (orkes patrol).",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "c34b1bda-995e-4ef6-9a8b-e56b6294a843",
+      "front": "Sungai terbesar yang membelah Surabaya?",
+      "back": "Sungai Kalimas.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "04b34214-ceac-4643-a015-bde5303e6138",
+      "front": "Kota di Jawa Timur yang terkenal sebagai kota apel?",
+      "back": "Kota Batu.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "1443f104-0d4c-46ce-b986-d6a9e8da99fc",
+      "front": "Apa nama bandara internasional di Surabaya?",
+      "back": "Bandara Juanda.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "ba090dc0-47ab-467d-9e85-c64049d55f58",
+      "front": "Universitas besar negeri di Malang?",
+      "back": "Universitas Brawijaya (UB).",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "93a4f7fe-7a32-48d5-ba92-98df583bd0f8",
+      "front": "Gunung yang dikenal dengan kawah besar bernama B29?",
+      "back": "Gunung Bromo (Bukit B29).",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "f677b209-6ff8-4e20-b469-d2e7995c5691",
+      "front": "Semboyan resmi Jawa Timur?",
+      "back": "\u201cJer Basuki Mawa B\u00e9ya.\u201d",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "22d51dfe-fc0a-4749-8f3d-488c44024fe3",
+      "front": "Apa makanan khas Malang yang berisi bakso dengan ragam isi?",
+      "back": "Bakso Malang.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "20b2938b-ae63-497d-b4bb-0ccc05371956",
+      "front": "Siapa tokoh pendiri Arek Surabaya?",
+      "back": "Bung Tomo (pemimpin perlawanan).",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "ee24ac41-a4c1-442e-83d0-5ecfb75709d1",
+      "front": "Apa nama museum perjuangan terbesar di Jatim?",
+      "back": "Museum 10 November Surabaya.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "8e14ab04-a5c0-4bc7-8092-a110948ee3e3",
+      "front": "Apa nama candi terkenal di Blitar yang terkait Majapahit?",
+      "back": "Candi Penataran.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "b025af17-a8a1-4b55-9bda-9da5be71e824",
+      "front": "Siapa presiden RI yang dimakamkan di Blitar?",
+      "back": "Presiden Soekarno.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "a9be228c-b2b0-4ccf-aaf5-ba19cd005938",
+      "front": "Suku apa yang hidup di Tengger, sekitar Gunung Bromo?",
+      "back": "Suku Tengger.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "57ac14fa-7c42-4b69-ab4e-890f0e196de0",
+      "front": "Upacara adat suku Tengger di Bromo?",
+      "back": "Yadnya Kasada.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "35cbfbb6-0ea6-49f4-bea3-a30b552553d0",
+      "front": "Tempat penemuan fosil manusia purba di Jatim?",
+      "back": "Sangiran (wilayah perbatasan Jatim\u2013Jateng).",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "d03359b3-bbe8-4781-a90e-e57636663d54",
+      "front": "Komoditas industri besar di Gresik?",
+      "back": "Semen (PT Semen Gresik).",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "3ef2623c-2df4-4f77-95a6-4ef2b7af78ca",
+      "front": "Bandara internasional di Banyuwangi bernama?",
+      "back": "Bandara Banyuwangi (Blimbingsari).",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "933c5df0-c7b9-45d3-9a4a-40879ce4e3ba",
+      "front": "Salah satu ikon kota Kediri?",
+      "back": "Monumen Simpang Lima Gumul.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "2b5587a2-8333-4fbc-9424-c7393168a75c",
+      "front": "Apa sungai utama yang melintasi Kediri?",
+      "back": "Sungai Brantas.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "bbafaf53-47d6-4b0f-9379-0fc81f664d69",
+      "front": "Siapa tokoh besar penyebar Islam di Jawa Timur yang makamnya di Lamongan?",
+      "back": "Sunan Drajat.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "97976478-c400-4037-81da-07d07e291ae3",
+      "front": "Apa julukan Kabupaten Blitar?",
+      "back": "Kota Proklamator.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "771f3e0a-bd18-4f0a-b3e5-ce303ec68bf4",
+      "front": "Gunung api besar di Magetan (berbatasan Jatim)?",
+      "back": "Gunung Lawu.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "ac0f82c4-95db-4ea2-bd8b-a68ac5901f92",
+      "front": "Danau terkenal di Kediri yang merupakan kawasan vulkanik?",
+      "back": "Gunung Kelud (memiliki kawah/danau kawah).",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "36f9089d-5ba4-4ee8-8c24-0140518ad715",
+      "front": "Komoditas utama Situbondo?",
+      "back": "Tembakau.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    },
+    {
+      "id": "445d9a68-4e11-4a51-a65a-a242146af203",
+      "front": "Apa pelabuhan penyeberangan besar menuju Bali?",
+      "back": "Pelabuhan Ketapang, Banyuwangi.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-20T07:32:05.495323+00:00",
+      "first_time": true
+    }
+  ]
+}

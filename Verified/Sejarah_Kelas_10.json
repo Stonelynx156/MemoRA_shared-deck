@@ -1,0 +1,199 @@
+{
+  "cards": [
+    {
+      "id": "c4e9c302-9a4f-4ba9-a22a-b68ef1bb0f11",
+      "front": "Apa itu Sejarah?",
+      "back": "Ilmu yang mempelajari peristiwa masa lalu manusia secara sistematis.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+    {
+      "id": "fcdde813-2b49-42b6-92b4-7ccfd02820bf",
+      "front": "Periodisasi Sejarah",
+      "back": "Pembagian waktu dalam sejarah untuk memudahkan pemahaman peristiwa.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+    {
+      "id": "530f6abe-109a-42c7-b258-f100a32c9897",
+      "front": "Historiografi",
+      "back": "Penulisan sejarah berdasarkan data dan metode ilmiah.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+    {
+      "id": "696fd5f6-ac2d-4c68-9010-ff3bfa61dd23",
+      "front": "Sumber Sejarah Primer",
+      "back": "Sumber asli dari pelaku atau saksi peristiwa langsung, seperti prasasti atau dokumen asli.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+    {
+      "id": "c56b4f6b-9823-4e52-b577-aa6247d73292",
+      "front": "Sumber Sejarah Sekunder",
+      "back": "Penafsiran atau tulisan ulang tentang peristiwa sejarah, seperti buku atau artikel ilmiah.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+
+    {
+      "id": "0c1ec302-d1d5-4880-a82f-d778cb55e502",
+      "front": "Zaman Praaksara",
+      "back": "Masa sebelum manusia mengenal tulisan.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+    {
+      "id": "ca7c8d15-68e9-45ee-9f31-b48153f5ceca",
+      "front": "Zaman Logam",
+      "back": "Tahap perkembangan manusia ketika mulai menggunakan logam: perunggu, tembaga, besi.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+    {
+      "id": "101922e2-de18-4cbc-b7f2-80ae4bf3893c",
+      "front": "Revolusi Kebudayaan Neolitikum",
+      "back": "Perubahan besar ketika manusia mulai bercocok tanam dan hidup menetap.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+
+    {
+      "id": "e4a920da-829f-423c-b0fb-082179d99a41",
+      "front": "Asal-Usul Nenek Moyang Indonesia",
+      "back": "Didominasi oleh teori Yunan yang menyebut penduduk Nusantara berasal dari migrasi Asia Selatan dan Tenggara.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+    {
+      "id": "2f376bc9-559c-430d-8917-dcfde206ba82",
+      "front": "Proto Melayu",
+      "back": "Gelombang pertama pendatang Austronesia yang datang ke Nusantara sekitar 2000 SM.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+    {
+      "id": "39ad82c1-5fe5-43cf-a1c4-a5e08465156e",
+      "front": "Deutro Melayu",
+      "back": "Gelombang kedua Austronesia yang datang sekitar 500 SM, lebih maju dalam teknologi logam.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+
+    {
+      "id": "5efce867-d396-4a26-96bc-3dbe8aa56694",
+      "front": "Hindu-Buddha Masuk ke Indonesia",
+      "back": "Melalui jalur perdagangan dan hubungan budaya dengan India sejak abad ke-1 M.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+    {
+      "id": "2c003384-7061-4fb5-bf8b-5adfce8cc4fb",
+      "front": "Teori Brahmana",
+      "back": "Menjelaskan bahwa agama Hindu dibawa ke Indonesia oleh kaum Brahmana India.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+    {
+      "id": "0705181d-43b7-455a-a61a-14336ebb6dd1",
+      "front": "Kerajaan Kutai",
+      "back": "Kerajaan Hindu tertua di Indonesia yang berada di Kalimantan Timur (abad ke-4 M).",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+
+    {
+      "id": "89416628-e641-4b42-a75e-43fbac0f9c21",
+      "front": "Kerajaan Sriwijaya",
+      "back": "Kerajaan maritim besar di Sumatra yang berjaya pada abad ke-7 hingga 12 M, pusat agama Buddha.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+    {
+      "id": "ea5b6c40-f51b-491e-8d64-9eb295d2f628",
+      "front": "Prasasti Kedukan Bukit",
+      "back": "Sumber tertua tentang Sriwijaya yang berisi catatan perjalanan Dapunta Hyang.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+
+    {
+      "id": "ae7d9fbe-4bd2-4f2c-93f0-858bfe99eb7b",
+      "front": "Kerajaan Mataram Kuno",
+      "back": "Kerajaan Hindu-Buddha di Jawa yang terkenal dengan Candi Borobudur dan Prambanan.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+    {
+      "id": "257bb6f0-9a06-4d39-a39c-a5d15cef9208",
+      "front": "Kerajaan Majapahit",
+      "back": "Kerajaan besar di Jawa Timur yang mencapai puncak kejayaan di bawah Hayam Wuruk dan Gajah Mada.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    },
+    {
+      "id": "aa8b14fd-2ebd-4d89-8b04-23b04f2b468c",
+      "front": "Sumpah Palapa",
+      "back": "Janji Gajah Mada untuk menyatukan Nusantara di bawah Majapahit.",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T05:56:35.964039+00:00",
+      "first_time": true
+    }
+  ]
+}
