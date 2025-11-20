@@ -1,0 +1,904 @@
+{
+  "cards": [
+    {
+      "id": "5f1c1a6b-1c9a-4a4e-9f83-9b1d57a9c101",
+      "front": "Eat",
+      "back": "Makan",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "0b8e33d1-4e53-4e02-8c89-7a4b404998d9",
+      "front": "Drink",
+      "back": "Minum",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "f3a4b0d9-01aa-4f64-b3e2-25d8eb2c20df",
+      "front": "Run",
+      "back": "Berlari",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "caa63b0c-68f1-4ca8-ae7c-3dfb8a2eb2de",
+      "front": "Walk",
+      "back": "Berjalan",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "1e0e3f0c-9e4f-4d88-b7fb-ca712a0f8c54",
+      "front": "Speak",
+      "back": "Berbicara",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "6be9a88e-1d44-4f80-aec3-3f58af913fe9",
+      "front": "Listen",
+      "back": "Mendengarkan",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "9cc5b870-55a8-4e99-b631-7bff6e108bd3",
+      "front": "Write",
+      "back": "Menulis",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "b317a0c3-bfea-4de2-8c10-6b28e2a76e18",
+      "front": "Read",
+      "back": "Membaca",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "72624c92-49e6-48ae-a2fb-61bdab6e6991",
+      "front": "Open",
+      "back": "Membuka",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "7c3040d3-44ce-49f1-b17c-0c09cd919812",
+      "front": "Close",
+      "back": "Menutup",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "1c7f0d6e-bbc7-4b0c-bc9a-0e78b6319a13",
+      "front": "Buy",
+      "back": "Membeli",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "d892ff4e-51f4-45e7-976c-2e8bc4555c2a",
+      "front": "Sell",
+      "back": "Menjual",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "dfe5c7ad-06ae-4be3-97c6-7e89a199fbd0",
+      "front": "Pay",
+      "back": "Membayar",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "64b1f758-a603-4d29-a3c2-ff92fbd0fd2f",
+      "front": "Help",
+      "back": "Membantu",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "b201d8cb-8320-4c33-afc3-4536d5d2ed82",
+      "front": "Cook",
+      "back": "Memasak",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "3a923c18-1aea-43e5-8af3-9a0e3b77cd85",
+      "front": "Clean",
+      "back": "Membersihkan",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "bb8b9276-32c6-4f0a-9e27-720e76db7b53",
+      "front": "Build",
+      "back": "Membangun",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "5802b2f7-8fd3-4c4b-9b70-6c22c422d354",
+      "front": "Break",
+      "back": "Memecahkan",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "2b38ee2c-1c62-48f4-a6fb-c630e3f4d72b",
+      "front": "Fix",
+      "back": "Memperbaiki",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "64b06ea4-4d79-4d87-96f4-c8d936f6cd61",
+      "front": "Find",
+      "back": "Menemukan",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "1b63b848-31f9-4b12-b509-e34ad4fb6051",
+      "front": "Lose",
+      "back": "Kehilangan",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "fd1bbf0a-e87e-4b71-bc86-7cdbe01d312c",
+      "front": "Send",
+      "back": "Mengirim",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "cd2362e3-a073-4b80-a6d0-f491bc9ee1e3",
+      "front": "Receive",
+      "back": "Menerima",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "c94428f1-cb97-43b0-b44a-a64dc88ef2f4",
+      "front": "Wait",
+      "back": "Menunggu",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "6c7e5a2b-18ec-46ea-8c8e-85c81d0f3f7e",
+      "front": "Drive",
+      "back": "Menyetir",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "b5202c89-d0b8-4884-a321-0b7fc79a4204",
+      "front": "Ride",
+      "back": "Mengendarai",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "2e2936f4-2780-4c9f-8adb-6212b208f8e4",
+      "front": "Sleep",
+      "back": "Tidur",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "a5af4140-9be4-4e4d-98c4-b2d06cdeaf69",
+      "front": "Wake",
+      "back": "Bangun",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "e3e95b78-2644-4dd1-94aa-0a692923fd5f",
+      "front": "Learn",
+      "back": "Belajar",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "6ec72c3f-1f08-4a90-8285-7dbebc6138c5",
+      "front": "Teach",
+      "back": "Mengajar",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "68b96893-5091-4772-86c9-abd28a8c3fc1",
+      "front": "Know",
+      "back": "Tahu",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "874ca855-a7c8-4e92-9c16-d002a426aaf3",
+      "front": "Understand",
+      "back": "Mengerti",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "42cab2b7-9d33-4e62-b8e5-e22c1bf7381d",
+      "front": "Think",
+      "back": "Berpikir",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "f13badc2-95c2-4e60-9a44-6a8bf9d7bb35",
+      "front": "Remember",
+      "back": "Ingat",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "5ca0b22c-248f-41a7-8cfe-d83cfb34b0f7",
+      "front": "Forget",
+      "back": "Lupa",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "90bb2b2c-9dd1-4ba1-b04c-c60cd22a5de4",
+      "front": "Love",
+      "back": "Cinta",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "eee4b9b5-50bb-48f3-b92d-6c927e125815",
+      "front": "Hate",
+      "back": "Benci",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "d37eb1c2-b726-4680-a9f8-05926a69f79b",
+      "front": "Like",
+      "back": "Suka",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "af67fc10-fba3-4f20-a917-6062f25dc693",
+      "front": "Need",
+      "back": "Butuh",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "62cb3311-b819-4c21-bfb7-7c0482955e74",
+      "front": "Want",
+      "back": "Ingin",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "87ec4e35-eae9-4e70-89f0-e3b8d55d9c43",
+      "front": "Start",
+      "back": "Mulai",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "a7fc703d-781b-4d21-a411-0b0a3cap3cc1",
+      "front": "Finish",
+      "back": "Selesai",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "b729c083-cac7-41fb-9d03-c433a0c82ffd",
+      "front": "Begin",
+      "back": "Memulai",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "2287fc35-2b64-4b4a-8afc-05ff7d8c234b",
+      "front": "End",
+      "back": "Mengakhiri",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "fca442de-a85b-4ba1-b1b5-75789e46d6ce",
+      "front": "Try",
+      "back": "Mencoba",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "8f8db656-0482-43ae-8936-1781fc788f98",
+      "front": "Move",
+      "back": "Bergerak",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "84a5eb9a-6a1f-4764-916e-bc16a7a9fce7",
+      "front": "Stop",
+      "back": "Berhenti",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "7768b0bc-5cd8-4268-8a22-e7392a282a63",
+      "front": "Carry",
+      "back": "Membawa",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "a7478a19-b3d0-4bde-bf1d-e2ee85c51108",
+      "front": "Pull",
+      "back": "Menarik",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "c25122ba-847c-4cd1-aac6-e3d692e748e6",
+      "front": "Push",
+      "back": "Mendorong",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "52df2948-a2a7-4f0c-b5c0-e39dc5e892ec",
+      "front": "Cut",
+      "back": "Memotong",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "36eb86b0-f78d-4a83-80b5-21c87b09e1ac",
+      "front": "Grow",
+      "back": "Tumbuh",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "15c5062e-93b4-4f54-b7b8-30c6e4513e73",
+      "front": "Throw",
+      "back": "Melempar",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "1ac32d79-f361-4a83-a01a-a79d6ecfadc8",
+      "front": "Catch",
+      "back": "Menangkap",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "fba25cc9-3a3b-4edc-93a7-e68fd1334d0a",
+      "front": "Hold",
+      "back": "Memegang",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "f5f1bf90-5090-4481-b27a-99808d8f14af",
+      "front": "Touch",
+      "back": "Menyentuh",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "d3c8f4be-e10d-4747-8757-65244e5bb5e2",
+      "front": "Look",
+      "back": "Melihat",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "de980da7-e673-4d2a-9bc0-870498b6fa57",
+      "front": "See",
+      "back": "Melihat (lebih umum)",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "419f8d3f-8b24-4581-a477-436fbbcb5b61",
+      "front": "Hear",
+      "back": "Mendengar",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "7d0c265f-6c2d-4b2c-ace4-1e8ef9d1c51c",
+      "front": "Smell",
+      "back": "Mencium",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "8ae9b7d2-e12c-419d-a360-cd06f9d06b3f",
+      "front": "Taste",
+      "back": "Mengecap",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "e580271a-c4a1-41aa-9edc-9946b09a9917",
+      "front": "Laugh",
+      "back": "Tertawa",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "610fa081-379d-4d7a-9f32-b61c2047aabc",
+      "front": "Cry",
+      "back": "Menangis",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "d9bf2513-b679-4f27-9a9a-42c2b0b84474",
+      "front": "Smile",
+      "back": "Tersenyum",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "6707c62a-04a0-4094-a1bc-bfe1a3b4b2f4",
+      "front": "Frown",
+      "back": "Cemberut",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "d4df2c75-166c-4289-8bbe-74fc44826d26",
+      "front": "Jump",
+      "back": "Melompat",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "b95876dc-36d8-4b07-888a-6b6b0a71deb3",
+      "front": "Swim",
+      "back": "Berenang",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "ba9921c8-54c4-4940-b7e7-1bb24a6e248d",
+      "front": "Climb",
+      "back": "Memanjat",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "1f38d463-0510-495c-b1b6-492c7345d486",
+      "front": "Fall",
+      "back": "Jatuh",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "e3b6d78c-32d9-4bb2-aa98-db926d78d1af",
+      "front": "Rise",
+      "back": "Bangkit",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "acfd0ed2-019a-4b4c-b662-e1d6a873d0b8",
+      "front": "Wash",
+      "back": "Mencuci",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "7cf4e2ac-8d1e-44e1-ad03-f3f3a34ac314",
+      "front": "Brush",
+      "back": "Menyikat",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "b1a8fc02-116c-4b46-85bd-d4304fa39c02",
+      "front": "Comb",
+      "back": "Menyisir",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "1f93399f-8718-4f7b-923c-78b8ae6051db",
+      "front": "Wear",
+      "back": "Memakai",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "5abdddc6-a8f5-4e11-bf79-cf0261d2e1ed",
+      "front": "Remove",
+      "back": "Melepas",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "5ce1c5f7-57ac-4d9f-a353-a78e87ec29c0",
+      "front": "Call",
+      "back": "Menelepon",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "4920af0d-4f16-4ac5-a00e-f3b046528737",
+      "front": "Answer",
+      "back": "Menjawab",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "41d50222-675c-4b51-9b6a-6d362c9a4150",
+      "front": "Ask",
+      "back": "Bertanya",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "55ed9af9-fd51-4187-8e4d-df648dfdbcd8",
+      "front": "Explain",
+      "back": "Menjelaskan",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "6ecb7e63-3998-4908-9132-af291d659701",
+      "front": "Show",
+      "back": "Menunjukkan",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "7421765d-c0ce-4c67-9c0b-38cf5db5390d",
+      "front": "Walk Away",
+      "back": "Pergi",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "11a7fb2c-feb7-4bb6-8983-6532d29e7f25",
+      "front": "Return",
+      "back": "Kembali",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "cbf6cde3-8ae1-485c-9db8-87323b0d3d8d",
+      "front": "Enter",
+      "back": "Masuk",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "0dd374a2-2861-4369-8da2-bfa2e87d7cdf",
+      "front": "Leave",
+      "back": "Keluar",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "fa87ab32-0771-4b16-948a-819c4a002b9a",
+      "front": "Arrive",
+      "back": "Tiba",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "6acb8f18-83bb-4d4a-8ab7-b99d52bbf7c2",
+      "front": "Plan",
+      "back": "Merencanakan",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "d8e1d799-e3a1-42c9-b393-e2fc9db2d6e5",
+      "front": "Decide",
+      "back": "Memutuskan",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "b6ed2a38-e480-47bb-9c44-9dccbf7f6f7d",
+      "front": "Choose",
+      "back": "Memilih",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "c02eb391-23c3-46c1-9530-9f07c0a7f5e6",
+      "front": "Check",
+      "back": "Memeriksa",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    },
+    {
+      "id": "09572e02-b39b-4c33-a2eb-f335665d5b4f",
+      "front": "Review",
+      "back": "Meninjau",
+      "interval": 1,
+      "ease_factor": 2.5,
+      "step": 1,
+      "due": "2025-11-18T07:19:00.093575+00:00",
+      "first_time": true
+    }
+  ]
+}
